@@ -1,7 +1,7 @@
 #DNA base frequency counter
-#About
+#About:
 this code helps in counting the number of guanine(G) and cytosine(C) bases present in a given dna sequence
-#Technology used
+#Technology used:
 c language
 #Example:
 input:AGAGAGAATTGTGCCCCACAT
